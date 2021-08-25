@@ -45,7 +45,6 @@ configobj==5.0.6
 constantly==15.1.0
 crcelk==1.3
 cryptography==3.3.2
-cupshelpers==1.0
 cycler==0.10.0
 Cython==0.29.21
 dbus-python==1.2.16
