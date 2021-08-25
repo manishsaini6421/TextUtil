@@ -25,7 +25,7 @@ autobahn==17.10.1
 Automat==20.2.0
 backcall==0.2.0
 
-basemap==1.2.1
+
 bcrypt==3.1.7
 beautifulsoup4==4.9.3
 binwalk==2.2.1
