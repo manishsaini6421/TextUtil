@@ -38,7 +38,6 @@ certifi==2020.6.20
 cffi==1.14.3
 chardet==4.0.0
 CherryPy==8.9.1
-chrome-gnome-shell==0.0.0
 click==7.1.2
 click-plugins==1.1.1
 colorama==0.4.4
@@ -55,7 +54,6 @@ debtags==2.1
 decorator==4.4.2
 defusedxml==0.6.0
 deprecation==2.0.7
-dhcpig==0.0.0
 dicttoxml==1.7.4
 distro==1.5.0
 distro-info==1.0
@@ -108,7 +106,6 @@ hiredis==1.0.1
 hpack==4.0.0
 html2text==2020.1.16
 html5lib==1.1
-humanize==0.0.0
 hupper==1.10.2
 hyperframe==6.0.0
 hyperlink==19.0.0
