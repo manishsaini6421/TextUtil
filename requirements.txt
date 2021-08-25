@@ -48,7 +48,6 @@ cryptography==3.3.2
 cycler==0.10.0
 Cython==0.29.21
 dbus-python==1.2.16
-debtags==2.1
 decorator==4.4.2
 defusedxml==0.6.0
 deprecation==2.0.7
