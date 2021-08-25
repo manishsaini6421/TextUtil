@@ -43,7 +43,6 @@ click-plugins==1.1.1
 colorama==0.4.4
 configobj==5.0.6
 constantly==15.1.0
-crackmapexec==5.0.2.dev0
 crcelk==1.3
 cryptography==3.3.2
 cupshelpers==1.0
@@ -91,7 +90,6 @@ geoip2==2.9.0
 geojson==2.5.0
 gevent==1.4.0
 gitdb==4.0.5
-gpg===1.14.0-unknown
 graphene==2.1.7
 graphene-sqlalchemy==2.1.2
 graphql-core==2.2.1
