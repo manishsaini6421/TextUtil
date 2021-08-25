@@ -24,8 +24,6 @@ attrs==20.3.0
 autobahn==17.10.1
 Automat==20.2.0
 backcall==0.2.0
-
-
 bcrypt==3.1.7
 beautifulsoup4==4.9.3
 blinker==1.4
@@ -40,7 +38,6 @@ certifi==2020.6.20
 cffi==1.14.3
 chardet==4.0.0
 CherryPy==8.9.1
-chirp==0.3.0.dev0
 chrome-gnome-shell==0.0.0
 click==7.1.2
 click-plugins==1.1.1
